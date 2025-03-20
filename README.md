@@ -31,3 +31,7 @@
 
 # 🎯Bandit Level 0
 👉 Problem Description: The goal of Level 0 is to the connect to Bandit server using SSH and find the password for Level 1.
+
+Steps to Solve
+Step 1:- To Connect, Use the such following **SSH Command **
+
