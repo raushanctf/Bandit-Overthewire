@@ -34,7 +34,7 @@
 
 ![Screenshot 2025-03-20 224746](https://github.com/user-attachments/assets/d1842be1-0a2c-4e06-9343-27e19b8bd462)
 
-# 🛠️ Steps to Solve
+🛠️ Steps to Solve
 
 * Step 1:- To Connect, Use the such following **SSH Command ** 
 * Step 2:- their username and password are given in below images....
@@ -48,7 +48,7 @@
 
 ![Screenshot 2025-03-20 231524](https://github.com/user-attachments/assets/97a14176-ec3e-4851-82db-8dcd727239c0)
 
-# 🛠️ Steps to Solve
+🛠️ Steps to Solve
 
 * Step1:- To Now, use the retrieved password to log into Level 1:
 * Step 2:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
@@ -62,7 +62,7 @@
 
 ![Screenshot 2025-03-20 232642](https://github.com/user-attachments/assets/d491ca2f-d72f-4d7d-ac74-116aad0d0af6)
 
-# 🛠️ Steps to Solve
+🛠️ Steps to Solve
 
 * Step1:- To Now, use the retrieved password to log into Level 1:
 * Step 2:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
