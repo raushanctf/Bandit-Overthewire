@@ -62,7 +62,7 @@
 
 ![Screenshot 2025-03-20 232642](https://github.com/user-attachments/assets/d491ca2f-d72f-4d7d-ac74-116aad0d0af6)
 
-🛠️ Steps to Solve
+🛠️ **Steps to Solve**
 
 * Step1:- To Now, use the retrieved password to log into Level 1:
 * Step 2:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
