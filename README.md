@@ -6,9 +6,9 @@ This Repository guide will help you understand and solve [Bandit](https://overth
 Solving Bandit—OverTheWire helps me and others build fundamental cybersecurity and Linux skills, which are essential for professional roles like Cybersecurity Analyst, SOC Analyst, Penetration Tester, or System Administrator. It helps me understand Linux fundamentals, basic security concepts, and Network or port analysis. If we solve these labs, we will be confident and have outcomes in our cybersecurity journey.
 
 # Prerequisite
-Linux/Unix-based system (or WSL on Windows)
-✅ Terminal emulator (Command Prompt, PowerShell, or Linux Terminal)
-✅ Basic knowledge of command-line operations
-✅ Patience & curiosity!
-✅ Methodology
+Linux/Unix-based system (or WSL on Windows),
+✅ Terminal emulator (Command Prompt, PowerShell, or Linux Terminal),
+✅ Basic knowledge of command-line operations,
+✅ Patience & curiosity!,
+✅ Methodology,
 
