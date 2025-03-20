@@ -31,15 +31,21 @@
 
 # 🎯Bandit Level 0
 👉 Problem Description: The goal of Level 0 is to the connect to Bandit server using SSH and find the password for Level 1.
+![Screenshot 2025-03-20 224746](https://github.com/user-attachments/assets/d1842be1-0a2c-4e06-9343-27e19b8bd462)
 
 🛠️ Steps to Solve
 * Step 1:- To Connect, Use the such following **SSH Command ** 
-* Step 2:- there username and password are given in below images....
-* Step 3:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
-![Screenshot 2025-03-20 224746](https://github.com/user-attachments/assets/d1842be1-0a2c-4e06-9343-27e19b8bd462)
+* Step 2:- their username and password are given in below images....
 
 👉 Here POC Given To solve this lab
-
 ![Screenshot 2025-03-20 225347](https://github.com/user-attachments/assets/cfef0b87-c2d6-457f-b9ee-a53d4f4aa97a)
+
+# 🎯Bandit Level 0 to 1
+👉 Problem Description: The goal of Level 1 is to the connect to Bandit server using SSH and find the password for Level 2.
+![Screenshot 2025-03-20 231524](https://github.com/user-attachments/assets/97a14176-ec3e-4851-82db-8dcd727239c0)
+
+🛠️ Steps to Solve
+Step1:- To Now, use the retrieved password to log into Level 1:
+Step 3:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
 
 ![Screenshot 2025-03-20 225408](https://github.com/user-attachments/assets/39c3ba9f-6c14-4ef8-8d46-bcc427d19879)
