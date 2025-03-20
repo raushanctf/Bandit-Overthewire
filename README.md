@@ -48,10 +48,9 @@
 ![Screenshot 2025-03-20 231524](https://github.com/user-attachments/assets/97a14176-ec3e-4851-82db-8dcd727239c0)
 
 🛠️ Steps to Solve
-Step1:- To Now, use the retrieved password to log into Level 1:
-Step 3:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
+* Step1:- To Now, use the retrieved password to log into Level 1:
+* Step 2:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
 
-![Screenshot 2025-03-20 225408](https://github.com/user-attachments/assets/39c3ba9f-6c14-4ef8-8d46-bcc427d19879)
 
 ![level1](https://github.com/user-attachments/assets/f5c52059-fa32-474e-95e5-e4168c1e6948)
 ![level1 1](https://github.com/user-attachments/assets/7c0f0b2d-8a18-430f-b926-ac437d95f09b)
