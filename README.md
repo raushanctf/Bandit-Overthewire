@@ -1,9 +1,9 @@
 # Bandit-Overthewire, Level 0 to 34
 
-# 📌Introduction
+# 🕹️ Introduction
 * This Repository guide will help you understand and solve [Bandit](https://overthewire.org/wargames/bandit/) wargame levels from OverTheWire. The Bandit CTF is great for learning basic Linux commands, SSH usage, and security concepts.
 
-# 📌Objective
+# 💊Objective
 * Solving Bandit—OverTheWire helps me and others build fundamental cybersecurity and Linux skills, which are essential for professional roles like Cybersecurity Analyst, SOC Analyst, Penetration Tester, or System Administrator. It helps me understand Linux fundamentals, basic security concepts, and Network or port analysis. If we solve these labs, we will be confident and have outcomes in our cybersecurity journey.
 
 # 📌Prerequisite
@@ -32,6 +32,14 @@
 # 🎯Bandit Level 0
 👉 Problem Description: The goal of Level 0 is to the connect to Bandit server using SSH and find the password for Level 1.
 
-Steps to Solve
-Step 1:- To Connect, Use the such following **SSH Command **
+🛠️ Steps to Solve
+* Step 1:- To Connect, Use the such following **SSH Command ** 
+* Step 2:- there username and password are given in below images....
+* Step 3:- After Login we use Linux command like ls and Cat then we find Passwords to move forward Next level
+![Screenshot 2025-03-20 224746](https://github.com/user-attachments/assets/d1842be1-0a2c-4e06-9343-27e19b8bd462)
 
+👉 Here POC Given To solve this lab
+
+![Screenshot 2025-03-20 225347](https://github.com/user-attachments/assets/cfef0b87-c2d6-457f-b9ee-a53d4f4aa97a)
+
+![Screenshot 2025-03-20 225408](https://github.com/user-attachments/assets/39c3ba9f-6c14-4ef8-8d46-bcc427d19879)
