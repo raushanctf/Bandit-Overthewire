@@ -48,6 +48,7 @@
 
 🎉 We found Password for Level 1 is **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
 
+**__________________________________________________________________________________**
 
 
 # 🎯Bandit Level 0 to 1
@@ -68,7 +69,8 @@
 ![level1 1](https://github.com/user-attachments/assets/7c0f0b2d-8a18-430f-b926-ac437d95f09b)
 
 🎉 we Found Passwords for Level 2 is **263JGJPfgU6LtdEvgfWU1XP5yac29mFx**
-_____________________________________________
+**__________________________________________________________________________________**
+
 
 # 🎯Bandit Level 1 to 2
 👉 Problem Description: The goal of Level 2 is to connect to the Bandit server using SSH and find the password for Level 3.
@@ -89,6 +91,7 @@ _____________________________________________
 
 🎉 We found that the Password for Level 3 is **MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx**
 
+**__________________________________________________________________________________**
 
 # 🎯Bandit Level 2 to 3
 👉 Problem Description: The goal of Level 3 is to connect to the Bandit server using SSH and find the password for Level 4.
@@ -110,6 +113,8 @@ _____________________________________________
 
 🎉 We Found the Password for Level 4 is **2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ**
 
+**__________________________________________________________________________________**
+
 
 # 🎯Bandit Level 3 to 4
 👉 Problem Description: The goal of Level 4 is to connect to the Bandit server using SSH and find the password for Level 5.
@@ -128,6 +133,8 @@ _____________________________________________
 ![level4 1](https://github.com/user-attachments/assets/5654bd05-34f7-46fe-8b7d-55dc559dfc3f)
 
 🎉 we Found Passwords for Level 5 is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
+
+**__________________________________________________________________________________**
 
 
 # 🎯Bandit Level 4 to 5
@@ -149,6 +156,7 @@ _____________________________________________
 
 🎉 We found Password for Level 6 is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 
+**__________________________________________________________________________________**
 
 # 🎯Bandit Level 5 to 6
 👉 Problem Description: The goal of Level 6 is to connect to the Bandit server using SSH and find the password for Level 7.
@@ -172,3 +180,5 @@ _____________________________________________
 
 
 🎉 we Found Passwords for Level 7 is **morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj**
+
+**__________________________________________________________________________________**
