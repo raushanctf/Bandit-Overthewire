@@ -81,10 +81,42 @@
 🛠️ **Steps to Solve**
 
 * Step1:- To Now, use the retrieved password to log into Level 3:
-* Step 2:- After Login, we use Linux commands like ls and Cat then we find Passwords to move forward Next Level
+* Step 2:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level
 
 👉 Here POC Given To solve this lab
 
 ![level3](https://github.com/user-attachments/assets/161af21f-5f9e-4cd6-877f-c2274e443c7b)
 
 ![level3 1](https://github.com/user-attachments/assets/1940b78f-7c93-43b2-9554-80089f8ce3e1)
+
+# 🎯Bandit Level 3 to 4
+👉 Problem Description: The goal of Level 4 is to connect to the Bandit server using SSH and find the password for Level 5.
+
+![Screenshot 2025-03-21 215336](https://github.com/user-attachments/assets/ac6dfe96-9976-4be1-ab7b-508da864fb42)
+
+🛠️ **Steps to Solve**
+
+* Step1:- To Now, use the retrieved password to log into Level 4:
+* Step 2:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level
+
+👉 Here POC Given To solve this lab
+![level4](https://github.com/user-attachments/assets/02f70da9-7939-4c2d-87f0-a75b12ae9e79)
+![level4 1](https://github.com/user-attachments/assets/5654bd05-34f7-46fe-8b7d-55dc559dfc3f)
+
+
+# 🎯Bandit Level 4 to 5
+👉 Problem Description: The goal of Level 5 is to connect to the Bandit server using SSH and find the password for Level 6.
+
+![Screenshot 2025-03-21 215644](https://github.com/user-attachments/assets/945ef7d2-310f-4429-b691-b602a182316c)
+
+🛠️ **Steps to Solve**
+
+* Step1:- To Now, use the retrieved password to log into Level 4:
+* Step 2:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level
+
+👉 Here POC Given To solve this lab
+![level5](https://github.com/user-attachments/assets/c3e6470b-a2c4-4236-a8de-34ecfc5c07ea)
+![level5 1](https://github.com/user-attachments/assets/ff5eefe1-bfa1-49d7-88d1-0f24c5744a4a)
+![level5 2](https://github.com/user-attachments/assets/842ad937-6d90-4f23-b4e7-7b6e353b339c)
+
+
