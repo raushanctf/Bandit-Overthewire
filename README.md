@@ -41,11 +41,11 @@
 * step 3:- connect is username@bandit.labs.overthewire.org, on port 2220. username is       bandit0 and Password is bandit0
 
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 
 ![Screenshot 2025-03-20 225347](https://github.com/user-attachments/assets/cfef0b87-c2d6-457f-b9ee-a53d4f4aa97a)
 
-We found Password for Level 1 is **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
+🎉 We found Password for Level 1 is **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
 
 
 # 🎯Bandit Level 0 to 1
@@ -60,12 +60,12 @@ We found Password for Level 1 is **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
    **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
 * - After Login, we use Linux commands like ls and Cat then we find Passwords to move forward Next Level
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 
 ![level1](https://github.com/user-attachments/assets/f5c52059-fa32-474e-95e5-e4168c1e6948)
 ![level1 1](https://github.com/user-attachments/assets/7c0f0b2d-8a18-430f-b926-ac437d95f09b)
 
-we Found Passwords for Level 2 is **263JGJPfgU6LtdEvgfWU1XP5yac29mFx**
+🎉 we Found Passwords for Level 2 is **263JGJPfgU6LtdEvgfWU1XP5yac29mFx**
 
 # 🎯Bandit Level 1 to 2
 👉 Problem Description: The goal of Level 2 is to connect to the Bandit server using SSH and find the password for Level 3.
@@ -79,12 +79,12 @@ we Found Passwords for Level 2 is **263JGJPfgU6LtdEvgfWU1XP5yac29mFx**
      **263JGJPfgU6LtdEvgfWU1XP5yac29mFx**
 * step 3:- After Login, we use Linux commands like ls and Cat then we find Passwords to move forward Next Level
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 
 ![level2](https://github.com/user-attachments/assets/6cdef59a-7f7b-4bd6-82a5-2e4bb55ce540)
 ![level2 1](https://github.com/user-attachments/assets/56dd0a48-cf7f-4aeb-a2df-68137c37781e)
 
-We found Password for Level 3 is **MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx**
+🎉 We found that the Password for Level 3 is **MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx**
 
 # 🎯Bandit Level 2 to 3
 👉 Problem Description: The goal of Level 3 is to connect to the Bandit server using SSH and find the password for Level 4.
@@ -98,13 +98,13 @@ We found Password for Level 3 is **MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx**
      **MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx**
 * step 3:- After Login, we use Linux commands like ls, cd, find, and Cat then we find Passwords to move forward Next Level
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 
 ![level3](https://github.com/user-attachments/assets/161af21f-5f9e-4cd6-877f-c2274e443c7b)
 
 ![level3 1](https://github.com/user-attachments/assets/1940b78f-7c93-43b2-9554-80089f8ce3e1)
 
-We Found Password for Level 4 is **2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ**
+🎉 We Found the Password for Level 4 is **2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ**
 
 # 🎯Bandit Level 3 to 4
 👉 Problem Description: The goal of Level 4 is to connect to the Bandit server using SSH and find the password for Level 5.
@@ -118,10 +118,11 @@ We Found Password for Level 4 is **2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ**
      **2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ**
 * Step3:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 ![level4](https://github.com/user-attachments/assets/02f70da9-7939-4c2d-87f0-a75b12ae9e79)
 ![level4 1](https://github.com/user-attachments/assets/5654bd05-34f7-46fe-8b7d-55dc559dfc3f)
-we Found Passwords for Level 5 is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
+
+🎉 we Found Passwords for Level 5 is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
 
 # 🎯Bandit Level 4 to 5
 👉 Problem Description: The goal of Level 5 is to connect to the Bandit server using SSH and find the password for Level 6.
@@ -135,12 +136,12 @@ we Found Passwords for Level 5 is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
          **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
 * Step 3:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 ![level5](https://github.com/user-attachments/assets/c3e6470b-a2c4-4236-a8de-34ecfc5c07ea)
 ![level5 2](https://github.com/user-attachments/assets/842ad937-6d90-4f23-b4e7-7b6e353b339c)
 ![level5 1](https://github.com/user-attachments/assets/ff5eefe1-bfa1-49d7-88d1-0f24c5744a4a)
 
-We found Password for Level 6 is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
+🎉 We found Password for Level 6 is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 
 # 🎯Bandit Level 5 to 6
 👉 Problem Description: The goal of Level 6 is to connect to the Bandit server using SSH and find the password for Level 7.
@@ -152,10 +153,10 @@ We found Password for Level 6 is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 * Step1:- To Now, use the retrieved password to log into Level 4:
 * Step2:- Connect is username@bandit.labs.overthewire.org, on port 2220. username is **bandit6** and the Password is 
          **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
-* Step3:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level.
+* Step 3:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level.
 
 
-👉 Here POC Given To solve this lab
+👉 Here is the POC Given To solve this lab
 
 ![level6](https://github.com/user-attachments/assets/31830b43-75e6-4bdf-b592-14da96d959d7)
 
@@ -163,4 +164,4 @@ We found Password for Level 6 is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
 ![leve6 3](https://github.com/user-attachments/assets/efc40da7-5055-4fd7-82d1-1d876c05fbfe)
 
 
-we Found Passwords for Level 7 is **morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj**
+🎉 we Found Passwords for Level 7 is **morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj**
