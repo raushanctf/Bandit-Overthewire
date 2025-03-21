@@ -132,3 +132,17 @@ we Found Passwords for Level 5 is **4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw**
 ![level5 1](https://github.com/user-attachments/assets/ff5eefe1-bfa1-49d7-88d1-0f24c5744a4a)
 
 we Found Passwords for Level 6 is **HWasnPhtq9AVKe0dmk45nxy20cvUa6EG**
+
+# 🎯Bandit Level 5 to 6
+👉 Problem Description: The goal of Level 6 is to connect to the Bandit server using SSH and find the password for Level 7.
+
+
+🛠️ **Steps to Solve**
+
+* Step1:- To Now, use the retrieved password to log into Level 4:
+* Step 2:- After Login, we use Linux commands like ls, cd, find and Cat then we find Passwords to move forward Next Level.
+
+
+👉 Here POC Given To solve this lab
+
+we Found Passwords for Level 6 is **morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj**
