@@ -1,4 +1,4 @@
-![level3](https://github.com/user-attachments/assets/d7fdde69-e43f-492d-b257-f7cd0d46636a)# Bandit-Overthewire, Level 0 to 34
+# Bandit-Overthewire, Level 0 to 34
 
 # 🕹️ Introduction
 * This Repository guide will help you understand and solve [Bandit](https://overthewire.org/wargames/bandit/) wargame levels from OverTheWire. The Bandit CTF is great for learning basic Linux commands, SSH usage, and security concepts.
